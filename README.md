@@ -73,4 +73,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 *Disclaimer: This project is intended for educational and illustrative purposes. It may require additional refinement and security enhancements before being deployed in a real-world scenario.*
 
-For any questions or inquiries, please contact [your.email@example.com](mailto:your.mda957947@gmail.com).
+For any questions or inquiries, please contact [your.mda957947@gmaile.com](mailto:your.mda957947@gmail.com).
