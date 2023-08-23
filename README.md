@@ -1,4 +1,4 @@
-# CRIMEreportingSYSTEM
+# CRIMEreportingSECTOR
 # Crime Reporting System using PHP and MySQL
 
 ![Project Logo](link_to_logo_if_available)
