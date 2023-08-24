@@ -1,5 +1,8 @@
 # CRIMEreportingSECTOR
-# Crime Reporting System using PHP and MySQL
+
+
+TRY IT OUT HERE : (http://localhost/crime_reportingSECTOR/home.php)
+                
 
 ![Project Logo](link_to_logo_if_available)
 
