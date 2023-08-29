@@ -1,6 +1,10 @@
 # CRIMEreportingSECTOR
 
 
+
+NOTE: this is not hosted link because i have not hosted this site yet on search engine...
+      but we can hoste it easily without any cost with the various hosting platform called 000WEBHOST,NEFTLIFY ETC..
+
 TRY IT OUT HERE : (http://localhost/crime_reportingSECTOR/home.php)
                 
 
